@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517427979545",
+    "project_id": "week6firebase-f630c",
+    "storage_bucket": "week6firebase-f630c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517427979545:android:cef6726cfa7b1f2d915188",
+        "android_client_info": {
+          "package_name": "fanshawe.example.week6firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArodiGj5gZPnM74v6gICGldca-qH08-r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
